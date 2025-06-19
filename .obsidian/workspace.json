@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "3b101ee2bbfef30a",
+    "type": "split",
+    "children": [
+      {
+        "id": "911c380f36014ff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd2fe9bd0e61125c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89bb1333a1d0ef46",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbdf8d60490515d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26eaca2d447c9270",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "f76976a9376fc2fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b9daf8941674009c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c143ef02fc9d49b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "22b0d514b4bbf2e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9cf80fd0be6ab88",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e7e731a5ade30b61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "3e049c4b32fde5c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Configuraciones de Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Configuraciones de Obsidian"
+            }
+          },
+          {
+            "id": "315fb055ee9ca271",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "db3edefa7484e56f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Configuraciones de Obsidian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Configuraciones de Obsidian"
+            }
+          },
+          {
+            "id": "d0e1c1e4b36da6fd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 445.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "iconic:Abrir libro de reglas": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d0e1c1e4b36da6fd",
+  "lastOpenFiles": [
+    "Sin título.md",
+    "Configuraciones de Obsidian.md",
+    "99-Meta/00-Templates/base.md",
+    "99-Meta/00-Templates/Daily.md",
+    "Drawing 2025-06-19 16.51.22.excalidraw.md",
+    "98-Archive/99-Attachment/Pasted Image 20250619175149_772.png",
+    "Drawing 2025-06-19 17.39.42.excalidraw.md",
+    "98-Archive/01-Graphics/Drawing 2025-06-19 17.42.38.excalidraw.md",
+    "98-Archive/01-Graphics/Canva.canvas",
+    "90-Daily/20250619 jueves.md",
+    "90-Daily",
+    "Sin título.canvas",
+    "Excalidraw/Drawing 2025-06-19 17.39.42.excalidraw.md",
+    "98-Archive/01-graphics/Sin título.canvas",
+    "Excalidraw/Drawing 2025-06-19 16.51.22.excalidraw.md",
+    "98-Archive/99-Attachment/Pasted Image 20250619173712_231.png",
+    "98-Archive/99-Attachment/Pasted Image 20250619165150_210.png",
+    "98-Archive/99-Attachment/Pasted Image 20250619165230_001.png",
+    "98-Archive/99-Attachment/Pasted Image 20250619165346_909.png",
+    "98-Archive/99-Attachment/Pasted image 20250619165505.png",
+    "98-Archive/99-Attachment",
+    "98-Archive/01-Graphics",
+    "98-Archive/00-Notes",
+    "98-Archive",
+    "99-Meta/00-Templates",
+    "99-Meta",
+    "98-Archive/99-Attachment/Pasted Image 20250619165419_446.png",
+    "Welcome.md",
+    "90-Fleeting",
+    "Excalidraw"
+  ]
+}

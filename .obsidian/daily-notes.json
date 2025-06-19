@@ -1,0 +1,5 @@
+{
+  "template": "99-Meta/00-Templates/Daily",
+  "folder": "90-Daily",
+  "format": "YYYYMMDD dddd"
+}

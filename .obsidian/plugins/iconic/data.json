@@ -1,0 +1,64 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "90-Daily": {
+      "icon": "lucide-calendar",
+      "unsynced": [
+        "9efcb3b02aa56929"
+      ],
+      "color": "pink"
+    },
+    "90-Fleeting": {
+      "icon": "lucide-leaf",
+      "unsynced": [
+        "9efcb3b02aa56929"
+      ],
+      "color": "pink"
+    },
+    "98-Archive": {
+      "icon": "lucide-archive",
+      "unsynced": [
+        "9efcb3b02aa56929"
+      ]
+    },
+    "99-Meta": {
+      "icon": "lucide-settings",
+      "unsynced": [
+        "9efcb3b02aa56929"
+      ]
+    },
+    "99-Meta/00-Templates": {
+      "icon": "lucide-book-template",
+      "unsynced": [
+        "9efcb3b02aa56929"
+      ]
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

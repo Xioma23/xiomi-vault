@@ -1,0 +1,17 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [
+    "99-Meta/00-Templates"
+  ],
+  "ignoreCreatedFolder": [
+    "99-Meta/00-Templates"
+  ],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "99-Meta/00-Templates/base.md": "1d96f07aa38bcf0e354f7f7e71647d6870d3db6b315baa92ade359be7284b527"
+  }
+}
