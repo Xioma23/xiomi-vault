@@ -4,5 +4,7 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "98-Archive/99-Attachment",
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "90-Fleeting"
 }

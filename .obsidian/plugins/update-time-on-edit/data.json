@@ -12,6 +12,7 @@
   ],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "99-Meta/00-Templates/base.md": "1d96f07aa38bcf0e354f7f7e71647d6870d3db6b315baa92ade359be7284b527"
+    "99-Meta/00-Templates/base.md": "1d96f07aa38bcf0e354f7f7e71647d6870d3db6b315baa92ade359be7284b527",
+    "98-Archive/Index.md": "d35f457681e03fe0b7f4258d4be4a2637d9a8919b8847ab5eb1a1ec799c216a0"
   }
 }

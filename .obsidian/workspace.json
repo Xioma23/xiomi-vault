@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "911c380f36014ff0",
+        "id": "5ad62941488f3627",
         "type": "tabs",
         "children": [
           {
-            "id": "bd2fe9bd0e61125c",
+            "id": "9d90a0dfb844a441",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "99-Meta/00-Templates/base.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "base"
             }
           }
         ]
@@ -44,6 +48,16 @@
             }
           },
           {
+            "id": "b9daf8941674009c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
             "id": "f76976a9376fc2fa",
             "type": "leaf",
             "state": {
@@ -59,22 +73,12 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "b9daf8941674009c",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260.51103591918945
   },
   "right": {
     "id": "c143ef02fc9d49b8",
@@ -188,15 +192,35 @@
   },
   "active": "d0e1c1e4b36da6fd",
   "lastOpenFiles": [
-    "Sin título.md",
-    "Configuraciones de Obsidian.md",
-    "99-Meta/00-Templates/base.md",
     "99-Meta/00-Templates/Daily.md",
-    "Drawing 2025-06-19 16.51.22.excalidraw.md",
-    "98-Archive/99-Attachment/Pasted Image 20250619175149_772.png",
-    "Drawing 2025-06-19 17.39.42.excalidraw.md",
-    "98-Archive/01-Graphics/Drawing 2025-06-19 17.42.38.excalidraw.md",
+    "99-Meta/00-Templates/base.md",
+    "00-Projects/obsidian.excalidraw.md",
+    "00-Projects/obsidian.canvas",
+    "00-Area/DESIGN.excalidraw.md",
+    "00-Area/DESIGN.canvas",
+    "00-Projects/html & css.canvas",
+    "00-Projects/html & css.excalidraw.md",
+    "00-Projects/vuejs.excalidraw.md",
+    "00-Projects/vuejs.canvas",
+    "00-Area/PROGRAMMING.canvas",
+    "00-Area/PROGRAMMING.excalidraw.md",
+    "00-Area/LANGUAGE.canvas",
+    "Sin título.md",
+    "90-Fleeting/Sin título.md",
+    "00-Area/GENERAL.canvas",
+    "00-Area/GENERAL.excalidraw.md",
+    "00-Area/LANGUAGE.excalidraw.md",
+    "00-Projects",
+    "00-Area",
+    "98-Archive/99-Attachment/Pasted Image 20250619180819_331.png",
+    "98-Archive/99-Attachment/Pasted Image 20250619180641_790.png",
+    "98-Archive/Index.md",
+    "98-Archive/99-Attachment/Pasted Image 20250619180418_947.png",
+    "98-Archive/01-Graphics/Drawing 2025-06-19 17.39.42.excalidraw.md",
     "98-Archive/01-Graphics/Canva.canvas",
+    "Configuraciones de Obsidian.md",
+    "98-Archive/99-Attachment/Pasted Image 20250619175149_772.png",
+    "98-Archive/01-Graphics/Drawing 2025-06-19 17.42.38.excalidraw.md",
     "90-Daily/20250619 jueves.md",
     "90-Daily",
     "Sin título.canvas",
@@ -216,7 +240,6 @@
     "99-Meta",
     "98-Archive/99-Attachment/Pasted Image 20250619165419_446.png",
     "Welcome.md",
-    "90-Fleeting",
-    "Excalidraw"
+    "90-Fleeting"
   ]
 }

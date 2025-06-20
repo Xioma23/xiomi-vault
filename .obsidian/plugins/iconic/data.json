@@ -22,6 +22,20 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "00-Area": {
+      "icon": "lucide-map",
+      "unsynced": [
+        "9efcb3b02aa56929"
+      ],
+      "color": "red"
+    },
+    "00-Projects": {
+      "icon": "lucide-rocket",
+      "unsynced": [
+        "9efcb3b02aa56929"
+      ],
+      "color": "purple"
+    },
     "90-Daily": {
       "icon": "lucide-calendar",
       "unsynced": [
